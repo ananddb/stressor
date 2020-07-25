@@ -33,7 +33,7 @@ python-dateutil = "*"
 requests = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
 
 [pipenv]
 # TODO: remove this when black releases a real version
